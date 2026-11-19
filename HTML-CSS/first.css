@@ -1,0 +1,13 @@
+
+table{
+    border: 1px solid black;
+    background-color: lightblue;
+    align-items: center;
+
+
+}
+table,label{
+    margin: auto;
+    padding: 10px;;
+
+}
